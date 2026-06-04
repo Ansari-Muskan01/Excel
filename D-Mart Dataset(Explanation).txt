@@ -1,0 +1,94 @@
+                                                                        D-Mart Sales Dataset
+
+Before we start analysing the data, it is important to understand what this dataset represents.
+
+This dataset contains sales transactions from DMart stores across different regions of India.
+Every row in the dataset represents a single customer order, and every column contains specific information related to that order.
+As Data Analysts, our first responsibility is not to create charts or dashboards. Our first responsibility is to understand the data and the business process behind it.
+
+Understanding the Business Process ,Let's understand how a typical DMart transaction happens:
+- A customer visits a DMart store.
+- The customer purchases one or more products.
+- The order is recorded in the system.
+- Information such as product category, quantity, sales amount, discount, and payment mode is stored.
+- The order is delivered to the customer.
+- The company tracks profit, sales performance, customer trends, and regional performance using this data.
+- This entire journey is captured inside our dataset.
+
+Understanding Each Column
+
+Order ID : A unique identifier assigned to each order.
+Business Use: Track individual orders , Avoid duplicate transactions, Monitor order history
+
+Order Date : The date when the customer placed the order.
+Business Use: Analyze sales trends , Identify peak sales periods ,Compare monthly and yearly performance
+
+Delivery Date : The date when the order was delivered.
+Business Use: Measure delivery performance , Calculate delivery time , Identify delays ,Location Information
+
+Region : Represents the geographical area where the order was placed (North,South,East,West)
+Business Questions: Which region generates the highest sales?
+                    Which region is most profitable?
+
+City : Represents the city where the customer is located.
+Business Questions:
+Which city contributes the most revenue?
+Which city has the highest number of orders?
+
+Category : Represents the type of product purchased.(Electronics,Grocery,Clothing,Home Care,Personal Care)
+Business Questions:
+Which category sells the most?
+Which category generates maximum profit?
+Sales Metrics
+
+Sales : Total revenue generated from the order.
+Business Question:How much money did the company earn?
+
+Quantity : Number of units sold.
+Business Question:How many products were sold?
+
+Discount : Discount offered on the order.
+Business Question:
+Are discounts helping increase sales?
+
+Profit : Actual earnings after deducting costs.
+Business Question:Is the company making money from these sales?
+
+Important Note: High Sales ≠ High Profit(A product can have high sales but low profit because of heavy discounts.)
+
+Customer Information : Customer Type(Represents the category of customer)
+Examples: Member ,Regular Customer
+Business Questions:
+Which customer type generates more sales?
+Which customer segment is more profitable?
+
+Payment Mode : Method used by customers to make payments (Cash,Credit Card,Debit Card,UPI)
+Business Questions:
+Which payment mode is most popular?
+How are customer payment preferences changing?
+
+Why Do We Explore Data Before Analysis?
+Imagine a doctor giving medicine without understanding the patient's condition.Similarly, if a Data Analyst starts analysis without understanding the dataset, the insights may be incorrect.
+Therefore, before analysis we must answer:
+- How many records are available?
+- Which regions exist?
+- Which product categories exist?
+- What columns are available?
+- Which fields can be used for analysis?
+- This process is called Data Exploration or Data Understanding.
+
+Using this dataset, we can answer questions such as:
+- Total Sales
+- Total Profit
+- Total Orders
+- Average Order Value
+- Region-wise Performance
+- City-wise Sales
+- Category-wise Profit
+- Customer Type Analysis
+- Payment Mode Analysis
+- Delivery Performance
+These insights help DMart make better business decisions and improve overall performance.
+
+Question: If DMart's sales are increasing every month but profit is decreasing, what could be the reason?
+
