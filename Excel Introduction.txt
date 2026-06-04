@@ -1,0 +1,45 @@
+What is Excel?
+- Excel is a spreadsheet application used for organizing, analyzing, and visualizing data. 
+- It helps businesses perform calculations, create reports, track performance, and make data-driven decisions.
+
+Key Components of Excel
+- Workbook: An Excel file containing one or more worksheets.
+- Worksheet: A spreadsheet consisting of rows and columns.
+- Cell: The intersection of a row and a column (e.g., A1, B5).
+- Formula Bar: Displays and allows editing of cell contents.
+- Ribbon: Contains commands and tools organized into tabs.
+
+Importance in Business Analytics
+- Excel is widely used to:
+- Calculate revenue and profitability.
+- Analyze sales performance.
+- Track expenses and budgets.
+- Create dashboards and reports.
+- Perform forecasting and trend analysis.
+
+What is a Formula?
+- A formula is an expression used to perform calculations in Excel. Every formula starts with an equal sign (=).
+
+What is a Function?
+- A function is a predefined formula that performs a specific calculation.
+
+Tracing Precedents and Dependents
+
+When working with complex spreadsheets, it is important to understand how formulas are linked.
+
+Precedents : Precedent cells provide data to a formula.
+Example:=C2*D2
+Cells C2 and D2 are precedents because they supply values used in the formula.
+
+Dependents : Dependent cells contain formulas that rely on another cell.
+If cell E2 contains:=C2*D2
+Then E2 is dependent on C2 and D2.
+
+Why Use Trace Precedents and Dependents?
+- Identify source data.
+- Detect formula errors.
+- Understand worksheet relationships.
+- Audit financial and business models.
+
+
+
