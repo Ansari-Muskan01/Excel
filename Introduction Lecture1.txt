@@ -1,0 +1,135 @@
+Before we start learning Excel, it is important to understand why Excel is used and how it fits into the world of Data Analytics and Data Science.
+
+Today, we will learn:
+- What is Data?
+- Types of Data
+- What is Data Analytics?
+- What is Data Science?
+- Difference between Data Analytics and Data Science
+- Why Excel is important for Data Analytics
+
+What is Data?
+- Data is a collection of facts, figures, observations, or information that can be stored and analyzed to make decisions.
+- In simple words, any information that can be recorded is called data.
+
+Examples of Data
+- Student marks
+- Employee salaries
+- Product sales
+- Customer information
+- Attendance records
+- Mobile numbers
+
+Why is Data Important?
+- Today, every organization generates a huge amount of data.
+
+Companies use data to:
+- Understand customer behavior
+- Improve business performance
+- Increase sales
+- Reduce costs
+- Make better business decisions
+- Without data, companies would have to make decisions based on assumptions rather than facts.
+
+1. Numerical Data : Numerical data consists of numbers and can be used for calculations.
+Examples: Age , Salary , Marks , Number of Employees
+
+2. Categorical Data : Categorical data represents labels or categories.
+Examples: Gender , Department , City , Product Category
+
+3. Date and Time Data : This type of data represents dates and times.
+Examples: 01-Jan-2026 , 15-Feb-2026 , 10:30 AM , 5:45 PM
+
+4. Text Data : Text data contains words, sentences, or descriptions.
+Examples: Customer feedback , Product descriptions , Comments , Emails
+
+
+What is Data Analytics?
+- Data Analytics is the process of collecting, cleaning, organizing, analyzing, and interpreting data to discover useful information and support decision-making.
+- In simple words, Data Analytics helps us understand what happened in the business and why it happened.
+
+Real-Life Example of Data Analytics
+- Imagine you own a supermarket.
+- You have sales data for the entire year.
+
+You want to answer questions such as:
+- Which product sold the most?
+- Which month had the highest sales?
+- Which city generated the maximum revenue?
+- Which category performed the best?
+- Finding answers to these questions using data is called Data Analytics.
+
+Data Analytics generally follows five steps.
+
+Step 1: Data Collection (Collect data from various sources)
+Examples: Excel files ,Databases , Websites , Surveys , Applications
+
+Step 2: Data Cleaning (Remove errors and improve data quality)
+Examples: Removing duplicates , Handling missing values , Correcting incorrect entries
+
+Step 3: Data Analysis (Analyze the data to identify patterns and trends)
+Examples: Total sales , Average revenue , Top-performing products
+
+Step 4: Data Visualization (Present findings using charts and graphs)
+Examples: Bar Charts , Pie Charts ,Line Charts ,Dashboards
+
+Step 5: Decision Making (Use insights from the analysis to make business decisions)
+Example: 
+- If a product is selling well, the company may increase its inventory.
+- Why Do Companies Use Data Analytics?
+
+Organizations use Data Analytics to:
+- Improve sales performance
+- Understand customers better
+- Optimize business operations
+- Reduce costs
+- Increase profits
+- Support strategic decision-making
+- Today, almost every industry uses Data Analytics.
+- Examples include: Banking , Healthcare , E-commerce , Education , Retail , Telecommunications
+
+What is Data Science?
+- Data Science is an advanced field that combines: Statistics ,Programming ,Machine Learning ,Business Knowledge to extract insights from data and predict future outcomes.
+- Data Science not only analyzes historical data but also helps predict future trends.
+
+Real-Life Example of Data Science
+- Suppose a company wants to know: "What will next month's sales be?"
+- Using historical sales data and machine learning algorithms, Data Scientists can build models to predict future sales.
+- This is called Predictive Analytics and is a major part of Data Science.
+
+Difference Between Data Analytics and Data Science
+
+Data Analytics	                                                   Data Science
+--------------------------------------------------------------------------------------------------------------
+Focuses on understanding past data	                   Focuses on predicting future outcomes
+Answers "What happened?"	                           Answers "What will happen?"
+Creates reports and dashboards	                           Builds predictive models
+Uses Excel, SQL, Power BI	                           Uses Python, Machine Learning, AI
+Descriptive in nature	                                   Predictive and Prescriptive in nature
+Example
+
+Data Analytics: "What were the total sales last month?"
+Data Science: "What are the expected sales next month?"
+
+
+Role of Excel in Data Analytics :
+- Excel is one of the most widely used tools for Data Analytics.
+- It is often the first tool that analysts learn before moving to advanced tools like SQL, Power BI, Python, and Machine Learning.
+
+What Can We Do in Excel?
+- Using Excel, we can:
+- Enter and organize data
+- Clean and prepare data
+- Perform calculations
+- Apply formulas and functions
+- Sort and filter records
+- Create charts and graphs
+- Generate reports
+- Build dashboards
+- Excel provides a strong foundation for a career in Data Analytics.
+
+Conclusion : 
+- Data has become one of the most valuable assets in today's digital world.
+- Organizations collect and analyze data to make informed decisions, improve performance, and gain a competitive advantage.
+- Data Analytics helps us understand the past and present, while Data Science helps us predict the future.
+- Excel serves as the first step in this journey and provides the foundation required for advanced analytical tools and technologies.
