@@ -1,4 +1,3 @@
 # Excel
 
-Column |Name	|Data Type|	Constraint
----------------------------------------
+The table structure includes:
