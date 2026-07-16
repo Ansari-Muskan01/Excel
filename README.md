@@ -1,17 +1,17 @@
 # Retail Sales Performance Dashboard
 
 
-# Business Objective
+## Business Objective
 
-The objective of this dashboard is to analyze the company's sales performance and generate business insights such as:
+The objective of this dashboard is to analyze the company's sales performance and generate valuable business insights.
 
-Monitor Total Sales and Total Profit.
-Identify the best-performing regions and cities.
-Analyze sales across different product categories.
-Understand customer purchasing patterns.
-Compare payment mode usage.
-Track monthly sales trends.
-Evaluate order quantity and delivery performance.
+- Monitor Total Sales and Total Profit.
+- Identify the best-performing regions and cities.
+- Analyze sales across different product categories.
+- Understand customer purchasing patterns.
+- Compare payment mode usage.
+- Track monthly sales trends.
+- Evaluate order quantity and delivery performance.
 
 
 # Dataset Description
