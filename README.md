@@ -1,34 +1,93 @@
-# Retail Sales Performance Dashboard
+# 🛒 DMart Sales Dashboard | Microsoft Excel
+
+## 📌 Project Overview
+
+The **DMart Sales Dashboard** is an interactive Microsoft Excel project designed to analyze retail sales performance. It provides valuable business insights into sales, profit, customer behavior, product categories, payment methods, and regional performance using Pivot Tables, Pivot Charts, KPI Cards, Slicers, and Timelines.
+
+---
+
+## 🎯 Project Objective
+
+The objective of this dashboard is to analyze **DMart sales performance** using Microsoft Excel. It enables management to monitor sales trends, profitability, customer purchasing behavior, regional performance, and payment preferences, helping support data-driven business decisions.
+
+---
+
+## 📊 Dataset Description
+
+The dataset contains retail sales transactions from a DMart store. Each record represents a customer order and includes sales, order details, customer information, product category, payment method, and profit.
+
+### Dataset Columns
+
+| Column | Description |
+|---------|-------------|
+| Order ID | Unique identifier for each order |
+| Sales | Total sales amount before discount |
+| Order Date | Date the order was placed |
+| Month | Month extracted from Order Date |
+| Region | Sales region (East, West, North, South) |
+| Category | Product category |
+| Quantity | Number of units sold |
+| Delivery Date | Date the order was delivered |
+| Customer Type | Member, New, or Regular |
+| Payment Mode | UPI, Card, or Cash |
+| Discount | Discount amount applied |
+| Net Revenue | Revenue after discount |
+| Profit | Profit earned from the order |
+| City | City where the order was placed |
+
+---
+
+## 🧮 Calculated Columns
+
+- **Month** – Extracted from the Order Date.
+- **Discount** – Discount amount applied to each order.
+- **Net Revenue** – Sales after subtracting the discount.
+
+---
+
+## 📈 Dashboard Features
+
+### KPI Cards
+- Total Sales
+- Total Profit
+- Total Orders
+- Total Quantity Sold
+- Average Order Value
+- Profit Margin (%)
+
+### Charts
+- 📈 Monthly Sales Trend
+- 📊 Sales by Region
+- 📊 Profit by Category
+- 🍩 Sales by Customer Type
+- 🥧 Payment Mode Distribution
+- 📍 Top 5 Cities by Sales
+
+### Interactive Filters
+- Region
+- Category
+- Customer Type
+- Payment Mode
+- City
+- Timeline (Order Date)
+
+---
+
+## ❓ Business Questions Answered
+
+- What are the total sales and total profit?
+- Which region generates the highest sales?
+- Which category is the most profitable?
+- Which customer type contributes the most sales?
+- Which payment mode is used the most?
+- Which cities generate the highest sales?
+- How do sales change month by month?
+- What is the average order value?
+- What is the overall profit margin?
+- How much discount has been provided?
+- What is the total net revenue after discount?
+
+---
 
 
-## Business Objective
-
-The objective of this dashboard is to analyze the company's sales performance and generate valuable business insights.
-
-- Monitor Total Sales and Total Profit.
-- Identify the best-performing regions and cities.
-- Analyze sales across different product categories.
-- Understand customer purchasing patterns.
-- Compare payment mode usage.
-- Track monthly sales trends.
-- Evaluate order quantity and delivery performance.
-
-
-# Dataset Description
-
-This dataset contains retail sales transaction records. Each row represents one customer order and includes information about the order details, sales amount, product category, customer type, payment method, profit, and delivery information. The dataset can be used to analyze sales performance, customer behavior, regional trends, and business profitability.
-
-
-| Column Name       | Description                                                                                   |
-| ----------------- | --------------------------------------------------------------------------------------------- |
-| **order_id**      | Unique identifier assigned to each customer order.                                            |
-| **order_date**    | The date on which the customer placed the order.                                              |
-| **sales**         | Total sales amount (₹) generated from the order.                                              |
-| **region**        | The geographical region where the order was placed (North, South, East, West).                |
-| **category**      | Product category purchased by the customer (Electronics, Clothing, Grocery, Home Care, etc.). |
-| **quantity**      | Number of units purchased in the order.                                                       |
-| **delivery_date** | The date on which the order was delivered to the customer.                                    |
-| **customer_type** | Type of customer placing the order (New, Regular, or Member).                                 |
-| **payment_mode**  | Payment method used by the customer (UPI, Card, Cash).                                        |
-| **profit**        | Profit earned from the order (₹).                                                             |
-| **city**          | City where the order was placed.                                                              |
+⭐ If you found this project helpful, consider giving it a **Star** on GitHub.
