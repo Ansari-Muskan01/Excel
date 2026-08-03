@@ -1,10 +1,5 @@
 # 🛒 DMart Sales Dashboard | Microsoft Excel
 
-## 📌 Project Overview
-
-The **DMart Sales Dashboard** is an interactive Microsoft Excel project designed to analyze retail sales performance. It provides valuable business insights into sales, profit, customer behavior, product categories, payment methods, and regional performance using Pivot Tables, Pivot Charts, KPI Cards, Slicers, and Timelines.
-
----
 
 ## 🎯 Project Objective
 
