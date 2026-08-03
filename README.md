@@ -64,7 +64,7 @@ The dataset contains retail sales transactions from a DMart store. Each record r
 - Customer Type
 - Payment Mode
 - City
-- Timeline (Order Date)
+
 
 ---
 
