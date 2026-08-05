@@ -4,7 +4,6 @@
 ## 🎯 Project Objective
 
 The objective of this dashboard is to analyze DMart sales performance. It provides interactive insights into sales trends, profitability, customer behavior, regional performance, and payment preferences to support data-driven business decisions.
----
 
 ## 📊 Dataset Description
 
