@@ -3,13 +3,12 @@
 
 ## 🎯 Project Objective
 
-The objective of this dashboard is to analyze **DMart sales performance** using Microsoft Excel. It enables management to monitor sales trends, profitability, customer purchasing behavior, regional performance, and payment preferences, helping support data-driven business decisions.
-
+The objective of this dashboard is to analyze DMart sales performance. It provides interactive insights into sales trends, profitability, customer behavior, regional performance, and payment preferences to support data-driven business decisions.
 ---
 
 ## 📊 Dataset Description
 
-The dataset contains retail sales transactions from a DMart store. Each record represents a customer order and includes sales, order details, customer information, product category, payment method, and profit.
+The dataset contains retail sales transaction records from a DMart store. Each row represents a customer order and includes sales, profit, discount, customer details, product category, payment mode, region, and delivery information.
 
 ### Dataset Columns
 
@@ -35,8 +34,10 @@ The dataset contains retail sales transactions from a DMart store. Each record r
 ## 🧮 Calculated Columns
 
 - **Month** – Extracted from the Order Date.
-- **Discount** – Discount amount applied to each order.
-- **Net Revenue** – Sales after subtracting the discount.
+
+- **Discount** – Calculated discount amount for each order.
+
+- **Net Revenue** – Sales amount after deducting the discount.
 
 ---
 
