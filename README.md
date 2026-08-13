@@ -71,6 +71,9 @@ The dataset contains retail sales transaction records from a DMart store. Each r
 * Payment Mode
 
 ---
+## 📊 Dashboard Preview
+
+![DMart Sales Dashboard](images/dmart-dashboard.png)
 
 ## 🔍 Key Insights
 
