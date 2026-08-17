@@ -1,0 +1,53 @@
+Basic Shortcuts
+
+| Shortcut | Action         |
+| ---------| -------------- |
+| Ctrl + C | Copy           |
+| Ctrl + X | Cut            |
+| Ctrl + V | Paste          |
+| Ctrl + Z | Undo           |
+| Ctrl + Y | Redo           |
+| Ctrl + S | Save           |
+| Ctrl + P | Print          |
+| Ctrl + F | Find           |
+| Ctrl + H | Find & Replace |
+
+Data Selection
+
+| Shortcut           | Action                     |
+| -------------------| -------------------------- |
+| Ctrl + A           | Select data                |
+| Ctrl + Space       | Select entire column       |
+| Shift + Space      | Select entire row          |
+| Ctrl + ↑ / ↓       | Jump to top/bottom of data |
+| Ctrl + ← / →       | Jump left/right in data    |
+| Ctrl + Shift + ↑/↓ | Select data up/down        |
+
+Formatting
+
+| Shortcut         | Action            |
+| -----------------| ----------------- |
+| Ctrl + B         | Bold              |
+| Ctrl + I         | Italic            |
+| Ctrl + U         | Underline         |
+| Ctrl + 1         | Format Cells      |
+| Ctrl + Shift + $ | Currency format   |
+| Ctrl + Shift + % | Percentage format |
+| Ctrl + Shift + # | Date format       |
+
+Data & Excel
+
+| Shortcut         | Action                                  |
+| -----------------| --------------------------------------- |
+| Ctrl + T         | Create Table                            |
+| Ctrl + Shift + L | Apply/Remove Filter                     |
+| Alt + =          | AutoSum                                 |
+| F2               | Edit cell                               |
+| F4               | Repeat action / Lock cell reference `$` |
+| Ctrl + ;         | Insert current date                     |
+| Ctrl + Shift + ; | Insert current time                     |
+| Alt + Enter      | New line inside cell                    |
+
+
+
+
