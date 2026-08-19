@@ -1,0 +1,80 @@
+Excel Theory Questions 
+
+Basic Excel
+What is Microsoft Excel?
+What is the difference between a Workbook and Worksheet?
+What is a cell and what is a cell reference?
+What is the difference between a row and a column?
+What is the difference between relative, absolute, and mixed cell references?
+What is the maximum number of rows and columns in Excel?
+What is the difference between Save and Save As?
+What is the use of the Formula Bar?
+What is the Name Box in Excel?
+
+Excel Formulas & Functions
+What is a formula in Excel?
+What is a function in Excel?
+What is the difference between a formula and function?
+What is the use of SUM()?
+What is the use of AVERAGE()?
+What is the difference between COUNT(), COUNTA(), and COUNTBLANK()?
+What is the use of MAX() and MIN()?
+What is the IF() function?
+What is a Nested IF?
+What are AND, OR, and NOT functions?
+What is IFERROR()?
+What is the difference between SUMIF() and SUMIFS()?
+What is the difference between COUNTIF() and COUNTIFS()?
+What is the difference between VLOOKUP() and HLOOKUP()?
+What is XLOOKUP()?
+What is the difference between VLOOKUP() and XLOOKUP()?
+What is the use of INDEX() and MATCH()?
+What are text functions in Excel?
+What is the use of LEFT(), RIGHT(), and MID()?
+What is the use of LEN()?
+What is the use of TRIM()?
+What is the difference between CONCAT() and TEXTJOIN()?
+
+Data Cleaning
+What is data cleaning in Excel?
+How do you remove duplicate records?
+What is Find & Replace?
+What is Text to Columns?
+How do you handle blank cells?
+How do you identify duplicate values?
+How do you convert text into numbers?
+How do you remove extra spaces from data?
+How do you handle errors such as #N/A, #VALUE!, and #DIV/0!?
+
+Excel Tables
+What is an Excel Table?
+What are the advantages of using an Excel Table?
+What is a Table Style?
+What happens when you add a new row to an Excel Table?
+
+Conditional Formatting
+What is Conditional Formatting?
+Why do we use Conditional Formatting?
+How do you highlight duplicate values?
+What are Data Bars, Color Scales, and Icon Sets?
+Can Conditional Formatting be based on a formula?
+
+Data Validation
+What is Data Validation?
+Why is Data Validation used?
+How do you create a dropdown list in Excel?
+How can you restrict users from entering invalid data?
+What is an Input Message in Data Validation?
+
+PivotTable & Reporting
+What is a PivotTable?
+Why do we use PivotTables?
+What are the four main areas of a PivotTable?
+What is the difference between Rows, Columns, Values, and Filters in a PivotTable?
+How do you calculate Sum, Count, and Average in a PivotTable?
+How do you refresh a PivotTable?
+What is a PivotChart?
+What is a Slicer?
+What is a Timeline in Excel?
+What is the difference between a normal chart and a PivotChart?
+
