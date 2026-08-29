@@ -75,6 +75,7 @@ The dataset contains retail sales transaction records from a DMart store. Each r
 
 ![DMart Sales Dashboard](DMART%20DASHBOARD.png)
 
+
 ## 🔍 Key Insights
 
 * **Total Sales:** ₹39.26M
